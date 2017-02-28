@@ -10,7 +10,7 @@
     "express": "4.13.x",
     "request": "2.79.0",
     "lodash": "4.17.4"
-  },
+   },
   "repository": {},
   "engines": {
     "node": "4.x"
