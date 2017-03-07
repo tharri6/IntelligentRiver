@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: NodeJSWeatherApp
-  host: NodeJSWeatherApp
+  name: Timothy-Harris
+  host: Timothy-Harris
   disk_quota: 1024M
